@@ -1,0 +1,1 @@
+# Gitea Configuration as Code
