@@ -1,4 +1,4 @@
-module git.khuedoan.com/khuedoan/gitea-cas
+module git.khuedoan.com/khuedoan/teacas
 
 go 1.17
 
