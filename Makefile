@@ -2,6 +2,9 @@
 
 default: build test
 
+vendor: go.mod
+	go mod vendor
+
 build:
 	go build
 
