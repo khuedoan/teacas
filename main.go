@@ -1,9 +1,11 @@
+/*
+Copyright © 2022 Khue Doan mail@khuedoan.com
+
+*/
 package main
 
-import (
-	"code.gitea.io/sdk/gitea"
-)
+import "git.khuedoan.com/khuedoan/teacas/cmd"
 
 func main() {
-	var _ []*gitea.Repository
+	cmd.Execute()
 }
